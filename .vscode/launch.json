@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Manoj/Desktop/cash flow minimizer",
-      "program": "c:/Users/Manoj/Desktop/cash flow minimizer/build/Debug/outDebug",
+      "cwd": "c:/Users/Ajay/Desktop/naina/cashflow-minimizer",
+      "program": "c:/Users/Ajay/Desktop/naina/cashflow-minimizer/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
